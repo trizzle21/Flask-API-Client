@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+code_collision_models/__init__.py
+code_collision_models/models.py
+models.egg-info/PKG-INFO
+models.egg-info/SOURCES.txt
+models.egg-info/dependency_links.txt
+models.egg-info/requires.txt
+models.egg-info/top_level.txt
